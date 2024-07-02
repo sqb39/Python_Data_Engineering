@@ -1,1 +1,2 @@
 # Python_Data_Engineering
+An ETL (Extract, Transform, Load) project using Beatiful Soup. This project scrapes data from a webpage, save them to a CSV file, then loads them to a Database to run queries on that database
