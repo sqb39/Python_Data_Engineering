@@ -1,0 +1,5 @@
+export AIRFLOW_HOME=/home/project/airflow
+echo $AIRFLOW_HOME
+cp pipeline_using_airflow.py $AIRFLOW_HOME/dags
+airflow dags list 
+airflow dags list-import-errors

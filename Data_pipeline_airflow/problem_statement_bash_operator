@@ -1,0 +1,3 @@
+This project extracts a folder to get three data files in three different formats. The formats are - csv, tsv and text file(All the filled contains same number of characters)
+
+After extraction it extracts data from three different data files, then make a single data file for transformation. Then run the process in Apache Airflow
